@@ -1,2 +1,2 @@
 # Skyroads
-Modified version of the Skyroads game
+Modified version of the Skyroads game in C++ using OpenGL.
